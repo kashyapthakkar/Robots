@@ -1,7 +1,8 @@
 This program has been created using Vanilla Javascript and jQuery, so you won't need to install any tools or libraries to run the program.
 
 Steps to run the program:  
-
+    
+    > Download and extract the solution
     > Open the "robots.html" file
     > Enter the number of robots who will deliver presents in "Number of Robots" field
     > Enter the movement sequence as a string in "Position String" field 
